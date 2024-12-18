@@ -1,0 +1,16 @@
+{
+    "name": "Random Image",
+    "short_name": "Random Image",
+    "icons": [
+      {
+        "src": "icon.jpg",
+        "sizes": "285x285",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFF6E9",
+    "theme_color": "#FFF6E9",
+    "id": "/index.html"
+  }
